@@ -21,6 +21,11 @@ jobs:
       - name: Build the site
         run: hugo --minify  # Build the site (output is in the 'public' folder)
 
+      - name: Set commit user for Github Actions
+        run: |
+          git config user.name 'github-actions'
+          git config user.email 'github-actions@github.com'
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
