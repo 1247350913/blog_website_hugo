@@ -1,4 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on nocomment</title><link>https://1247350913.github.io/blog_website_hugo/posts/</link><description>Recent content in Posts on nocomment</description><generator>Hugo -- 0.145.0</generator><language>en-us</language><lastBuildDate>Fri, 04 Apr 2025 21:42:05 -0500</lastBuildDate><atom:link href="https://1247350913.github.io/blog_website_hugo/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello World</title><link>https://1247350913.github.io/blog_website_hugo/posts/hello-world/</link><pubDate>Fri, 04 Apr 2025 21:42:05 -0500</pubDate><guid>https://1247350913.github.io/blog_website_hugo/posts/hello-world/</guid><description>&lt;h1 id="introduction-to-blogging">Introduction to Blogging&lt;/h1>
-&lt;p>Welcome to my first post on this blog! Blogging has always intrigued me. The ability to express thoughts, share stories, and connect with others from across the world is something I find fascinating. In this post, I want to discuss why blogging is such a powerful tool for personal growth and professional development.&lt;/p>
-&lt;h2 id="the-power-of-sharing-ideas">The Power of Sharing Ideas&lt;/h2>
-&lt;p>At its core, blogging is about sharing knowledge, experiences, and opinions with a wider audience. Whether you&amp;rsquo;re writing for an audience of one or one thousand, the act of putting your thoughts into words has a profound impact on the writer. Through writing, we process our thoughts, develop new perspectives, and learn more about ourselves.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on nocomment</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on nocomment</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Apr 2025 21:42:05 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Fri, 04 Apr 2025 21:42:05 -0500</pubDate>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>&lt;h1 id=&#34;introduction-to-blogging&#34;&gt;Introduction to Blogging&lt;/h1&gt;
+&lt;p&gt;Welcome to my first post on this blog! Blogging has always intrigued me. The ability to express thoughts, share stories, and connect with others from across the world is something I find fascinating. In this post, I want to discuss why blogging is such a powerful tool for personal growth and professional development.&lt;/p&gt;
+&lt;h2 id=&#34;the-power-of-sharing-ideas&#34;&gt;The Power of Sharing Ideas&lt;/h2&gt;
+&lt;p&gt;At its core, blogging is about sharing knowledge, experiences, and opinions with a wider audience. Whether you&amp;rsquo;re writing for an audience of one or one thousand, the act of putting your thoughts into words has a profound impact on the writer. Through writing, we process our thoughts, develop new perspectives, and learn more about ourselves.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

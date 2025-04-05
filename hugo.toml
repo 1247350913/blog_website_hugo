@@ -1,9 +1,5 @@
-baseURL = "https://1247350913.github.io/blog_website_hugo/"
+baseURL = "http://localhost:1313/"
 languageCode = "en-us"
 title = "nocomment"
 theme = "hugo-PaperMod"
 contentDir = "content"
-
-
-[params]
-  description = "description here"
