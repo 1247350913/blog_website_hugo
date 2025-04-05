@@ -1,4 +1,4 @@
-baseURL = "http://localhost:52020/"
+baseURL = "https://1247350913.github.io/blog_website_hugo/"
 languageCode = "en-us"
 title = "nocomment"
 theme = "hugo-PaperMod"

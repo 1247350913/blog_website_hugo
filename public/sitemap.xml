@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:52020/</loc>
+    <loc>https://1247350913.github.io/blog_website_hugo/</loc>
     <lastmod>2025-04-04T21:42:05-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:52020/posts/</loc>
+    <loc>https://1247350913.github.io/blog_website_hugo/posts/</loc>
     <lastmod>2025-04-04T21:42:05-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:52020/categories/</loc>
+    <loc>https://1247350913.github.io/blog_website_hugo/categories/</loc>
   </url><url>
-    <loc>http://localhost:52020/tags/</loc>
+    <loc>https://1247350913.github.io/blog_website_hugo/tags/</loc>
   </url>
 </urlset>
