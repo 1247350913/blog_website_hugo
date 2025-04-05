@@ -9,7 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      PROD_URL: "http://nocomment.info"
+      PROD_URL: "https://nocomment.info"
 
     steps:
       - name: Checkout code
