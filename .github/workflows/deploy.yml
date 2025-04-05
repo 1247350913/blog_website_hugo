@@ -1,0 +1,31 @@
+name: Deploy Hugo site to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main  # Trigger the workflow when changes are pushed to the 'main' branch
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.145.0'  # Adjust this if you need a different Hugo version
+
+      - name: Build the site
+        run: hugo --minify  # Build the site (output is in the 'public' folder)
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}  # This token is automatically provided by GitHub
+          publish_dir: ./public  # Folder to publish (Hugo output)
+          target_branch: gh-pages  # The branch where the files should go
+          user_name: 'github-actions'  # The commit author name
+          user_email: 'github-actions@github.com'  # The commit author email
